@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    color: whitesmoke;
+    font-size: 2em;
+}
+
+#project-name {
+    align-items: center;
+}
+
+.film-card p {
+    font-family: 'Open Sans', sans-serif;
+    color: cornflowerblue;
+    font-size: 0.5em;
+}
